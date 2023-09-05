@@ -1,0 +1,59 @@
+{
+  "user": [
+    {
+      "email": "gauravpandeygkp7135615@gmail.com",
+      "password": "121",
+      "id": 3
+    },
+    {
+      "email": "Akhilesh@gmail.com",
+      "password": "121",
+      "id": 4
+    },
+    {
+      "email": "vijay@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "email": "gauravpandeygkp7135615@gmail.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "email": "king@gmail.com",
+      "password": "87700985924",
+      "id": 7
+    },
+    {
+      "email": "gkp666@gmail.com",
+      "password": "7668594256",
+      "id": 8
+    },
+    {
+      "email": "gkp666@gmail.com",
+      "password": "7668594256",
+      "id": 9
+    },
+    {
+      "email": "lk@gmail.com",
+      "password": "7668594",
+      "id": 10
+    },
+    {
+      "email": "aman@gmail.com",
+      "password": "987654",
+      "id": 11
+    },
+    {
+      "email": "gaurav789@gmail.com",
+      "password": "963852",
+      "id": 12
+    },
+    {
+      "email": "gaurav789@gmail.com",
+      "password": "963852",
+      "id": 13
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.header
+{
+    height: 75px;
+    background-color: blueviolet;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#login{
+    float: right;
+    padding: 10px;
+    width: 101px;
+    margin-right: 20px;
+}
+  
+  .content {
+    flex: 1; /* Takes up available space */
+    padding: 10px;
+  }
+  
+  .button {
+    padding: 10px;
+    width: 101px;
+    margin-right: 20px;
+  }
